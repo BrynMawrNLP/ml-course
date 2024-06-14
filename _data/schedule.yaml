@@ -1,0 +1,155 @@
+- 
+  lectures:
+    -
+      date: 2024-09-03
+      title: Lecture 01 <br> ML Overview <br> KNN
+      readings:
+        -
+          title: "Duame 1.1, 1.2"
+          url: "http://ciml.info/dl/v0_99/ciml-v0_99-ch01.pdf"
+        -
+          title: "Duame 3.1-3.3"
+          url: "http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf"
+        - 
+          title: Machine Learning by Tom Dietterich in Nature Encyclopedia of Cognitive Science (skim Sections 4-7)
+          url: http://web.engr.oregonstate.edu/~tgd/publications/nature-ecs-machine-learning.pdf
+        - 
+          title: optional ISL Chapter 1
+        - 
+          title: (optional) ISL Sections 2.1, 2.2 (focus on 2.1 and pg. 39-42)
+        - 
+          title: (optional) The Discipline of Machine Learning by Tom Mitchell
+          url: "http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf"
+    -
+      date: 2024-09-04
+      title: Lab 01 <br> Python & KNN
+    -
+      date: 2024-09-05
+      title: Lecture 02 <br> KNN continued
+    -
+      date: 2024-09-10
+      title: Lecture 03 <br> Decision Trees 
+    -
+      date: 2024-09-11
+      title: Lab 02 <br> Decision Trees 
+    -
+      date: 2024-09-12
+      title: Lecture 04 <br> Decision Trees 
+    -
+      date: 2024-09-17
+      title: Lecture 05 <br> Linear Regression  
+    -
+      date: 2024-09-18
+      title: Lab 03 <br> Linear Regression
+    -
+      date: 2024-09-19
+      title: Lecture 06 <br> Linear Regression
+    -
+      date: 2024-09-24
+      title: Lecture 07 <br> Linear Regression <br> Catchup
+    -
+      date: 2024-09-25
+      title: Lab 04 
+    -
+      date: 2024-09-26
+      title: Lecture 08 <br> Naive Bayes
+    -
+      date: 2024-10-01
+      title: Lecture 09 <br> Naive Bayes 
+    -
+      date: 2024-10-02
+      title: Lab 05 <br> Review 
+    -
+      date: 2024-10-03
+      title: MIDTERM
+      type: exam
+    -
+      date: 2024-10-08
+      title: Lecture 10 <br> Logistic Regression 
+    -
+      date: 2024-10-09
+      title: Lab 06 <br> Logistic Regression
+    -
+      date: 2024-10-10
+      title: Lecture 11 <br> Logistic Regression
+    -
+      date: 2024-10-15
+      title: FALL BREAK
+    -
+      date: 2024-10-16
+      title: FALL BREAK 
+    -
+      date: 2024-10-17
+      title: FALL BREAK
+    -
+      date: 2024-10-22
+      title: Lecture 12 <br> Evaluation Metrics 
+    -
+      date: 2024-10-23
+      title: Lecture 13 <br> Ensemble Methods
+    -
+      date: 2024-10-24
+      title: NO CLASS <br> Lab 07 
+    -
+      date: 2024-10-29
+      title: Lecture 14 <br> Ensemble Methods
+    -
+      date: 2024-10-30
+      title: Lab 08 <br>  
+    -
+      date: 2024-10-31
+      title: Lecture 15 <br> Perceptron 
+    -
+      date: 2024-11-05
+      title: Lecture 16 <br> Support Vector Machine 
+    -
+      date: 2024-11-06
+      title: Lecture 17 <br> Support Vector Machine
+    -
+      date: 2024-11-07
+      title: Lecture 18 <br> Catch up/Review
+    -
+      date: 2024-11-12
+      title: EMNLP (NLP Conference)
+    -
+      date: 2024-11-13
+      title: EMNLP (NLP Conference) <br> Lab 09 <br> Sklearn or Pytorch
+    -
+      date: 2024-11-14
+      title: EMNLP (NLP Conference)
+    -
+      date: 2024-11-19
+      title: Lecture 19 <br> Feed Forward NN <br> Backpropagation
+    -
+      date: 2024-11-20
+      title: Lecture 20 <br> RNN
+    -
+      date: 2024-11-21
+      title: Lecture 21 <br> Transformer
+    -
+      date: 2024-11-26
+      title: Lecture 22 <br> Deep Learning Catchup
+    -
+      date: 2024-11-27
+      title: Lab 10 
+    -
+      date: 2024-11-28
+      title: THANKSGIVING
+    -
+      date: 2024-12-03
+      title: Lecture 23 <br> Unsupervised Learning I
+    -
+      date: 2024-12-04
+      title: Lab 11 
+    -
+      date: 2024-12-05
+      title: Lecture 24 <br> Unsupervised Learning II
+    -
+      date: 2024-12-10
+      title: Lecture 25 <br> Unsupervised Learning III
+    -
+      date: 2024-12-11
+      title: Midterm II
+    -
+      date: 2024-12-12
+      title: Lecture 26 <br> Where does data come from? <br> Review
