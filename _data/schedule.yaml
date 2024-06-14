@@ -20,6 +20,11 @@
         - 
           title: (optional) The Discipline of Machine Learning by Tom Mitchell
           url: "http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf"
+      assignments: 
+        - 
+          title: "HW01 - KNN"
+          url: "hws/HW01.html"
+          deadline: 2024-09-10
     -
       date: 2024-09-04
       title: Lab 01 <br> Python & KNN
@@ -29,6 +34,11 @@
     -
       date: 2024-09-10
       title: Lecture 03 <br> Decision Trees 
+      assignments: 
+        - 
+          title: "HW02 - Decision Trees"
+          url: "hws/HW01.html"
+          deadline: 2024-09-17
     -
       date: 2024-09-11
       title: Lab 02 <br> Decision Trees 
@@ -38,6 +48,11 @@
     -
       date: 2024-09-17
       title: Lecture 05 <br> Linear Regression  
+      assignments: 
+        - 
+          title: "HW03 - Polynomial Regression"
+          url: "hws/HW02.html"
+          deadline: 2024-09-24
     -
       date: 2024-09-18
       title: Lab 03 <br> Linear Regression
@@ -53,6 +68,11 @@
     -
       date: 2024-09-26
       title: Lecture 08 <br> Naive Bayes
+      assignments: 
+        - 
+          title: "HW03 - Naive Bayes"
+          url: "hws/HW03.html"
+          deadline: 2024-10-01
     -
       date: 2024-10-01
       title: Lecture 09 <br> Naive Bayes 
