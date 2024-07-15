@@ -37,7 +37,7 @@
       assignments: 
         - 
           title: "HW02 - Decision Trees"
-          url: "hws/HW01.html"
+          url: "hws/HW02.html"
           deadline: 2024-09-17
     -
       date: 2024-09-11
@@ -51,7 +51,7 @@
       assignments: 
         - 
           title: "HW03 - Polynomial Regression"
-          url: "hws/HW02.html"
+          url: "hws/HW03.html"
           deadline: 2024-09-24
     -
       date: 2024-09-18
@@ -70,8 +70,8 @@
       title: Lecture 08 <br> Naive Bayes
       assignments: 
         - 
-          title: "HW03 - Naive Bayes"
-          url: "hws/HW03.html"
+          title: "HW04 - Naive Bayes"
+          url: "hws/HW04.html"
           deadline: 2024-10-01
     -
       date: 2024-10-01
@@ -83,6 +83,11 @@
       date: 2024-10-03
       title: MIDTERM
       type: exam
+      assignments: 
+        - 
+          title: "HW05 - Logistic Regression"
+          url: "hws/HW05.html"
+          deadline: 2024-10-11
     -
       date: 2024-10-08
       title: Lecture 10 <br> Logistic Regression 
