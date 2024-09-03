@@ -18,11 +18,10 @@ The lecture schedule will be updated as the term progresses.
 
 ### Pre-course
 
-Make sure to fill out the [pre-course survey](https://forms.gle/hE8uQFMHuX1HtgiE7).
+Make sure to fill out the [pre-course survey](https://forms.gle/5TuQv7CSsF9wiqP98).
 
-Make sure you are registered for the course [Gradescope](https://www.gradescope.com/) and [Piazza](https://piazza.com/class/llz0bx8glf5a6).
-
-Please complete <a href="{{ site.url }}{{ site.baseurl }}/labs/Lab00.html">Lab00</a> before the first lab meeting.
+Make sure you are registered for the course [Gradescope](https://www.gradescope.com/courses/797563)
+and [Piazza](https://piazza.com/class/llz0bx8glf5a6).
 
 {% for week in site.data.schedule %}
   <h3>

@@ -41,7 +41,7 @@ Check out the [excellent final projects](http://crowdsourcing-class.org/final-pr
 
 
 Course number
-: CMSC B151 
+: CMSC B383 
 
 Instructor
 : [Adam Poliak](http://azpoliak.github.io)
@@ -50,7 +50,7 @@ Teaching Assistants
 : [Course Staff](staff.html) 
 
 Website 
-: [https://bmc-cs-151.github.io/](https://bmc-cs-151.github.io/)
+: [https://cs.brynmawr.edu/cs383-ml/](https://cs.brynmawr.edu/cs383-ml/)
 
 Discussion Forum
 : [Piazza](https://piazza.com/brynmawr/fall2024/c66e)
@@ -76,11 +76,11 @@ Course Readings
 : Some lectures will have accompanying optional reading related to the lecture's topic
 
 Grading
-* Homeworks: 32%
-* Labs: 6%
+* Homeworks: 35% 
+* Labs: 5%
 * Midterms: 40%
 * Final Project: 15% 
-* Participation (includes quizzes): 7%
+* Participation (includes quizzes): 5%
 
 <br>
 See the <a href="{{ site.url }}{{ site.baseurl }}/policies.html">Policies</a> for more details.
