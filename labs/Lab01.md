@@ -54,23 +54,15 @@ You can download the materials for this assignment here:
 
 The main goals for this lab are:
 
-1. Brush up on relevant math (Linear Algebra, Calculus, Probabiltiy).
-2. Start getting familiar with numpy.
+1. Start getting familiar with numpy.
+2. Brush up on relevant math (Linear Algebra, Calculus, Probabiltiy).
+
 
 Make sure to write down your answers below. In future labs, the TAs or Instructor
 will check your answers. Whenever you see **TODO**, that means there is an action item for you to complete.
 
-## 1. Math Pre-exam
 
-Complete the following [math pre-exam]({{site.url}}{{site.baseurl}}labs/lab01/math_pretest.pdf). This will be graded on effort, not correctness - the purpose of this part of Lab 1 is so that I know how much math review to do later on. You have a few options for working on this part:
-
-1. Print it out, write down your answers on the pages.
-2. Write your answers on a separate sheet of paper, but clearly number the questions.
-3. LaTeX your answers.
-4. 
-For the first two approaches, “scan” the pages using a phone (I recommend the app “CamScanner”) to create a single PDF. For all approaches, add the final PDF to your Lab 1 on Gradescope.
-
-## 2. Python Introduction (Optional)
+## 1. Python Introduction (Optional)
 
 From the terminal, you can start a python interpreter by just typing `python` in the command-line. Once you create a python, you can run it from terminal by just running `python <filename>.py`. 
 
@@ -82,7 +74,7 @@ If you are new to python, go through at least the following sections of this [Py
 - section 5  
 - section 6
 
-## 3. Numpy Introduction
+## 2. Numpy Introduction
 
 Some steps below are borrowed from [numpy quickstart tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html), which I encourage you to reference throughout the course.
 
@@ -145,6 +137,16 @@ Look up the `sort` function (from numpy) and apply it to both axes of your `m` a
 *optional: save your interpreter commands to a file and email to each partner*
 
 <br><br><br>
+
+## 3. Math Pre-exam
+
+Complete the following [math pre-exam]({{site.url}}{{site.baseurl}}labs/lab01/math_pretest.pdf). This will be graded on effort, not correctness - the purpose of this part of Lab 1 is so that I know how much math review to do later on. You have a few options for working on this part:
+
+1. Print it out, write down your answers on the pages.
+2. Write your answers on a separate sheet of paper, but clearly number the questions.
+3. LaTeX your answers.
+4. 
+For the first two approaches, “scan” the pages using a phone (I recommend the app “CamScanner”) to create a single PDF. For all approaches, add the final PDF to your Lab 1 on Gradescope.
 
 ### Signing out
 For the remaining labs, before leaving, make sure your TA/instructor have signed you out of the lab. If you finish the lab early, you are free to go.
