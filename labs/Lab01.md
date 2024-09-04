@@ -73,6 +73,7 @@ If you are new to python, go through at least the following sections of this [Py
 - section 4 (skip 4.6 & 4.8)
 - section 5  
 - section 6
+- section 9
 
 ## 2. Numpy Introduction
 
@@ -147,6 +148,8 @@ Complete the following [math pre-exam]({{site.url}}{{site.baseurl}}labs/lab01/ma
 3. LaTeX your answers.
 4. 
 For the first two approaches, “scan” the pages using a phone (I recommend the app “CamScanner”) to create a single PDF. For all approaches, add the final PDF to your Lab 1 on Gradescope.
+
+This part of the lab should be submitted individually.
 
 ### Signing out
 For the remaining labs, before leaving, make sure your TA/instructor have signed you out of the lab. If you finish the lab early, you are free to go.
