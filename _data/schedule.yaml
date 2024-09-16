@@ -25,17 +25,17 @@
         - 
           title: "HW01 - KNN"
           url: "hws/HW01.html"
-          deadline: 2024-09-10
+          deadline: 2024-09-13 was <s>2024-09-10</s>
     -
       date: 2024-09-04
       title: Lab 01 <br> Python & KNN
       url: "labs/Lab01.html"
     -
       date: 2024-09-05
-      title: Lecture 02 <br> KNN continued
+      title: <s>Lecture 02 <br> KNN continued</s> <br> Cancelled
     -
       date: 2024-09-10
-      title: Lecture 03 <br> Decision Trees 
+      title: Lecture 02 <br> <s>Decision Trees</s> <br> K-NN 
       readings:
         -
           title: "Duame 1.3 - 1.6"
@@ -64,13 +64,24 @@
           deadline: 2024-09-17
     -
       date: 2024-09-11
-      title: Lab 02 <br> Decision Trees 
+      title: Lecture 03 <br> Decision Trees 
     -
       date: 2024-09-12
       title: Lecture 04 <br> Decision Trees 
     -
       date: 2024-09-17
       title: Lecture 05 <br> Linear Regression  
+      readings:
+        -
+          title: "Duame 7.6"
+          url: "http://ciml.info/dl/v0_99/ciml-v0_99-ch07.pdf"
+        -
+          title: "ISL: Chap 3, pg 59-63"
+        -
+          title: "(optional) ISL: Sections 3.1-3.5"
+        -
+          title: "(optional) Simple linear regression by James Kirchner (2001)"
+          url: http://seismo.berkeley.edu/~kirchner/eps_120/Toolkits/Toolkit_10.pdf
       assignments: 
         - 
           title: "HW03 - Polynomial Regression"
