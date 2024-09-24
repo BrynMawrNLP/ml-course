@@ -93,19 +93,38 @@
           deadline: 2024-09-24
     -
       date: 2024-09-18
-      title: Lab 03 <br> Linear Regression
-    -
-      date: 2024-09-19
       title: Lecture 06 <br> Linear Regression
     -
+      date: 2024-09-19
+      title: Lecture 07 <br> Linear Regression
+    -
       date: 2024-09-24
-      title: Lecture 07 <br> Linear Regression <br> Catchup
+      title: Lecture 08 <br> Linear Regression <br> Catchup
+      slides: slides/lec08.pdf
+      readings:
+        -
+          title: "Duame 9.3"
+          url: "http://ciml.info/dl/v0_99/ciml-v0_99-ch09.pdf"
+        -
+          title: "Generative And Discriminative Classifiers: Naive Bayes And Logistic Regression (Section 2) by Tom Mitchell"
+          url: "http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf"
+        - 
+          title: "(optional) ISL: Chapter 4"
+        - 
+          title: "(optional) On Discriminative vs. Generative Classifiers by Andrew Ng and Michael I. Jordan (2001)"
+          url: "https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf"
+        - 
+          title: "(optional) Estimating Probabilities by Tom Mitchell"
+          url: "http://www.cs.cmu.edu/~tom/mlbook/Joint_MLE_MAP.pdf"
+        - 
+          title: "(optional) The Naive Bayes Model, Maximum-Likelihood Estimation, and the EM Algorithm by Michael Collins"
+          url: "http://www.cs.columbia.edu/~mcollins/em.pdf"
     -
       date: 2024-09-25
-      title: Lab 04 
+      title: Lecture 09 <br> Naive Bayes
     -
       date: 2024-09-26
-      title: Lecture 08 <br> Naive Bayes
+      title: Lecture 10 <br> Naive Bayes
       assignments: 
         - 
           title: "HW04 - Naive Bayes"
