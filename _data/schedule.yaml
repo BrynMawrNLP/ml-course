@@ -94,9 +94,11 @@
     -
       date: 2024-09-18
       title: Lecture 06 <br> Linear Regression
+      slides: slides/lec06.pdf
     -
       date: 2024-09-19
       title: Lecture 07 <br> Linear Regression
+      slides: slides/lec07.pdf
     -
       date: 2024-09-24
       title: Lecture 08 <br> Linear Regression <br> Catchup
@@ -122,9 +124,15 @@
     -
       date: 2024-09-25
       title: Lecture 09 <br> Naive Bayes
+      slides: slides/lec09.pdf
+      readings:
+        - 
+          title: "Speech and Language Processing (3rd ed. draft) by Jurafsky & Martin: Chapter 4.1-4.3"
+          url: "https://web.stanford.edu/~jurafsky/slp3/4.pdf"
     -
       date: 2024-09-26
       title: Lecture 10 <br> Naive Bayes
+      slides: slides/lec10.pdf
       assignments: 
         - 
           title: "HW04 - Naive Bayes"
@@ -133,6 +141,10 @@
     -
       date: 2024-10-01
       title: Lecture 09 <br> Naive Bayes 
+      readings:
+        - 
+          title: "Speech and Language Processing (3rd ed. draft) by Jurafsky & Martin: Chapter 4.7"
+          url: "https://web.stanford.edu/~jurafsky/slp3/4.pdf"
     -
       date: 2024-10-02
       title: Lab 05 <br> Review 
