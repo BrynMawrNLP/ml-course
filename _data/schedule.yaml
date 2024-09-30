@@ -140,18 +140,18 @@
           deadline: 2024-10-01
     -
       date: 2024-10-01
-      title: Lecture 09 <br> Naive Bayes 
+      title: Lecture 11 <br> Naive Bayes 
       readings:
         - 
           title: "Speech and Language Processing (3rd ed. draft) by Jurafsky & Martin: Chapter 4.7"
           url: "https://web.stanford.edu/~jurafsky/slp3/4.pdf"
     -
       date: 2024-10-02
-      title: Lab 05 <br> Review 
+      title: Lecture 12 <br> <s>Review </s> <br> Logistic Regression
     -
       date: 2024-10-03
-      title: MIDTERM
-      type: exam
+      title: <s>MIDTERM</s> <br> NO CLASS
+      type: cancelled
       assignments: 
         - 
           title: "HW05 - Logistic Regression"
@@ -159,13 +159,13 @@
           deadline: 2024-10-11
     -
       date: 2024-10-08
-      title: Lecture 10 <br> Logistic Regression 
+      title: Lecture 13 <br> Logistic Regression 
     -
       date: 2024-10-09
-      title: Lab 06 <br> Logistic Regression
+      title: Lecture 14 <br> Logistic Regression
     -
       date: 2024-10-10
-      title: Lecture 11 <br> Logistic Regression
+      title: Lecture 15 <br> Evaluation Metrics
     -
       date: 2024-10-15
       title: FALL BREAK
@@ -177,13 +177,14 @@
       title: FALL BREAK
     -
       date: 2024-10-22
-      title: Lecture 12 <br> Evaluation Metrics 
+      title: Lecture 16 <br> Evaluation Metrics <br> Review
     -
       date: 2024-10-23
-      title: Lecture 13 <br> Ensemble Methods
+      title: Lecture 17 <br> <s>Ensemble Methods</s> <br> Review
     -
       date: 2024-10-24
-      title: NO CLASS <br> Lab 07 
+      title: MIDTERM
+      type: exam
     -
       date: 2024-10-29
       title: Lecture 14 <br> Ensemble Methods
