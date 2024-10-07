@@ -143,29 +143,36 @@
       title: Lecture 11 <br> Naive Bayes 
       readings:
         - 
-          title: "Speech and Language Processing (3rd ed. draft) by Jurafsky & Martin: Chapter 4.7"
+          title: "Speech and Language Processing (3rd ed. draft) by Jurafsky & Martin: Chapter 4.4-4.5"
           url: "https://web.stanford.edu/~jurafsky/slp3/4.pdf"
     -
       date: 2024-10-02
-      title: Lecture 12 <br> <s>Review </s> <br> Logistic Regression
+      title: Lecture 12 <br> <s>Review </s> <br> Evaluation Metrics
+      readings:
+        - 
+          title: "Speech and Language Processing (3rd ed. draft) by Jurafsky & Martin: Chapter 4.7"
+          url: "https://web.stanford.edu/~jurafsky/slp3/4.pdf"
+        - 
+          title: "8.3 and 8.4 of Evaluation in information retrieval by Manning et al (2009)"
+          url: "https://nlp.stanford.edu/IR-book/pdf/08eval.pdf"
     -
       date: 2024-10-03
       title: <s>MIDTERM</s> <br> NO CLASS
       type: cancelled
+    -
+      date: 2024-10-08
+      title: Lecture 13 <br> Logistic Regression 
       assignments: 
         - 
           title: "HW05 - Logistic Regression"
           url: "hws/HW05.html"
-          deadline: 2024-10-11
-    -
-      date: 2024-10-08
-      title: Lecture 13 <br> Logistic Regression 
+          deadline: 2024-10-22
     -
       date: 2024-10-09
-      title: Lecture 14 <br> Logistic Regression
+      title: No Lecture or Lab (COLM Conference) <br> <s>Logistic Regression</s>
     -
       date: 2024-10-10
-      title: Lecture 15 <br> Evaluation Metrics
+      title: Lecture 14 <br> Logistic Regression <br> Review <br> <s>Evaluation Metrics</s>
     -
       date: 2024-10-15
       title: FALL BREAK
@@ -177,35 +184,63 @@
       title: FALL BREAK
     -
       date: 2024-10-22
-      title: Lecture 16 <br> Evaluation Metrics <br> Review
+      title: Lecture 15 <br> Logistic Regression <br> Review
     -
       date: 2024-10-23
-      title: Lecture 17 <br> <s>Ensemble Methods</s> <br> Review
+      title: Lecture 16 <br> <s>Ensemble Methods</s> <br> Review
     -
       date: 2024-10-24
       title: MIDTERM
       type: exam
     -
       date: 2024-10-29
-      title: Lecture 14 <br> Ensemble Methods
+      title: Lecture 17 <br> Ensemble Methods
+      readings:
+        - 
+          title: "Duame Chap 13"
+          url: "http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf"
+        - 
+          title: "Ensemble Methods in Machine Learning by Tom Dietterich"
+          url: "https://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf"
+        - 
+          title: "(optional) ISL: Section 8.2"
+        - 
+          title: "(optional) Explaining the Success of AdaBoost and Random Forests as Interpolating Classifiers by Wyner et al (2017)"
+          url: "https://www.jmlr.org/papers/volume18/15-240/15-240.pdf"
     -
       date: 2024-10-30
-      title: Lab 08 <br>  
+      title: Lecture 18 <br> Ensemble Methods  
     -
       date: 2024-10-31
-      title: Lecture 15 <br> Perceptron 
+      title: Lecture 19 <br> Perceptron 
+      readings:
+        - 
+          title: "Duame Chap 4"
+          url: "http://ciml.info/dl/v0_99/ciml-v0_99-ch04.pdf"
+        - 
+          title: "(optional) Perceptron, notes by Andrew Ng"
+          url: "https://see.stanford.edu/materials/aimlcs229/cs229-notes6.pdf"
     -
       date: 2024-11-05
-      title: Lecture 16 <br> Support Vector Machine 
+      title: Lecture 20 <br> Support Vector Machine 
+      readings:
+        - 
+          title: "A User's Guide to Support Vector Machines, by Asa Ben-Hur and Jason Weston"
+          url: "https://pyml.sourceforge.net/doc/howto.pdf"
+        - 
+          title: "(optional) ISL: Sections 9.1-9.3"
+        - 
+          title: "(optional) Support Vector Machine, notes by Andrew Ng"
+          url: "https://see.stanford.edu/materials/aimlcs229/cs229-notes3.pdf"
     -
       date: 2024-11-06
-      title: Lecture 17 <br> Support Vector Machine
+      title: Lecture 21 <br> Support Vector Machine
     -
       date: 2024-11-07
-      title: Lecture 18 <br> Catch up/Review
+      title: Lecture 22 <br> Catch up/Review
     -
       date: 2024-11-12
-      title: EMNLP (NLP Conference)
+      title: Lecture 23 <br> Deep Learning 1 <br> Feed Forward NN <br> Backpropagation
     -
       date: 2024-11-13
       title: EMNLP (NLP Conference) <br> Lab 09 <br> Sklearn or Pytorch
@@ -214,34 +249,34 @@
       title: EMNLP (NLP Conference)
     -
       date: 2024-11-19
-      title: Lecture 19 <br> Feed Forward NN <br> Backpropagation
+      title: Lecture 24 <br> Deep Learning 2 
     -
       date: 2024-11-20
-      title: Lecture 20 <br> RNN
+      title: Lecture 25 <br> Deep Learning 3 <br> RNN
     -
       date: 2024-11-21
-      title: Lecture 21 <br> Transformer
+      title: Lecture 26 <br> Deep Learning 4 <br> Transformer
     -
       date: 2024-11-26
-      title: Lecture 22 <br> Deep Learning Catchup
+      title: Lecture 27 <br> Deep Learning Catchup
     -
       date: 2024-11-27
-      title: Lab 10 
+      title: NO CLASS (day bfore thanksgiving) 
     -
       date: 2024-11-28
       title: THANKSGIVING
     -
       date: 2024-12-03
-      title: Lecture 23 <br> Unsupervised Learning I
+      title: Lecture 28 <br> Unsupervised Learning I
     -
       date: 2024-12-04
-      title: Lab 11 
+      title: Lecture 29 <br> Unsupervised Learning II
     -
       date: 2024-12-05
-      title: Lecture 24 <br> Unsupervised Learning II
+      title: Lecture 30 <br> Unsupervised Learning III
     -
       date: 2024-12-10
-      title: Lecture 25 <br> Unsupervised Learning III
+      title: Lecture 31 <br> Unsupervised Learning IV
     -
       date: 2024-12-11
       title: Midterm II
