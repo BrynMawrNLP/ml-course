@@ -141,6 +141,7 @@
     -
       date: 2024-10-01
       title: Lecture 11 <br> Naive Bayes 
+      slides: slides/lec11.pdf
       readings:
         - 
           title: "Speech and Language Processing (3rd ed. draft) by Jurafsky & Martin: Chapter 4.4-4.5"
@@ -148,6 +149,7 @@
     -
       date: 2024-10-02
       title: Lecture 12 <br> <s>Review </s> <br> Evaluation Metrics
+      slides: slides/lec12.pdf
       readings:
         - 
           title: "Speech and Language Processing (3rd ed. draft) by Jurafsky & Martin: Chapter 4.7"
@@ -162,6 +164,7 @@
     -
       date: 2024-10-08
       title: Lecture 13 <br> Logistic Regression 
+      slides: slides/lec13.pdf
       assignments: 
         - 
           title: "HW05 - Logistic Regression"
