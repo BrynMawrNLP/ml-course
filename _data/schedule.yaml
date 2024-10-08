@@ -167,6 +167,16 @@
           title: "HW05 - Logistic Regression"
           url: "hws/HW05.html"
           deadline: 2024-10-22
+      readings:
+        -
+          title: "Stanford Course Notes pg 16-19"
+          url: "https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf"
+        -
+          title: "Generative And Discriminative Classifiers: Naive Bayes And Logistic Regression (Section 3) by Tom Mitchell"
+          url: "http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf"
+        -
+          title: "(optional) Softmax Regression (multi-class logistic regression) from the Stanford UFLDL Tutorial"
+          url: "http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/"
     -
       date: 2024-10-09
       title: No Lecture or Lab (COLM Conference) <br> <s>Logistic Regression</s>
