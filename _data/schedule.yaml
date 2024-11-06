@@ -169,7 +169,7 @@
         - 
           title: "HW05 - Logistic Regression"
           url: "hws/HW05.html"
-          deadline: 2024-10-22
+          deadline: 2024-10-29
       readings:
         -
           title: "Stanford Course Notes pg 16-19"
@@ -186,6 +186,7 @@
     -
       date: 2024-10-10
       title: Lecture 14 <br> Logistic Regression <br> Review <br> <s>Evaluation Metrics</s>
+      slides: slides/lec14.pdf
     -
       date: 2024-10-15
       title: FALL BREAK
@@ -208,6 +209,7 @@
     -
       date: 2024-10-29
       title: Lecture 17 <br> Ensemble Methods
+      slides: slides/lec17.pdf
       readings:
         - 
           title: "Duame Chap 13"
@@ -220,12 +222,19 @@
         - 
           title: "(optional) Explaining the Success of AdaBoost and Random Forests as Interpolating Classifiers by Wyner et al (2017)"
           url: "https://www.jmlr.org/papers/volume18/15-240/15-240.pdf"
+      assignments: 
+        - 
+          title: "HW06 - Ensemble Methods"
+          url: "hws/HW06.html"
+          deadline: 2024-11-12
     -
       date: 2024-10-30
       title: Lecture 18 <br> Ensemble Methods  
+      slides: slides/lec18.pdf
     -
       date: 2024-10-31
       title: Lecture 19 <br> Perceptron 
+      slides: slides/lec19.pdf
       readings:
         - 
           title: "Duame Chap 4"
@@ -236,6 +245,7 @@
     -
       date: 2024-11-05
       title: Lecture 20 <br> Support Vector Machine 
+      slides: slides/lec20.pdf
       readings:
         - 
           title: "A User's Guide to Support Vector Machines, by Asa Ben-Hur and Jason Weston"
@@ -245,15 +255,26 @@
         - 
           title: "(optional) Support Vector Machine, notes by Andrew Ng"
           url: "https://see.stanford.edu/materials/aimlcs229/cs229-notes3.pdf"
+      assignments: 
+        - 
+          title: "HW07 - SVMs & Cross-Validation"
+          url: "hws/HW07.html"
+          deadline: 2024-11-12
     -
       date: 2024-11-06
       title: Lecture 21 <br> Support Vector Machine
+      slides: slides/lec21.pdf
     -
       date: 2024-11-07
       title: Lecture 22 <br> Catch up/Review
     -
       date: 2024-11-12
       title: Lecture 23 <br> Deep Learning 1 <br> Feed Forward NN <br> Backpropagation
+      assignments: 
+        - 
+          title: "HW08 - Neural Networks"
+          url: "hws/HW08.html"
+          deadline: 2024-11-19
     -
       date: 2024-11-13
       title: EMNLP (NLP Conference) <br> Lab 09 <br> Sklearn or Pytorch
