@@ -259,7 +259,7 @@
         - 
           title: "HW07 - SVMs & Cross-Validation"
           url: "hws/HW07.html"
-          deadline: 2024-11-12
+          deadline: 2024-11-27
     -
       date: 2024-11-06
       title: Lecture 21 <br> Support Vector Machine
@@ -267,32 +267,35 @@
     -
       date: 2024-11-07
       title: Lecture 22 <br> Catch up/Review
+      slides: slides/lec22.pdf
     -
       date: 2024-11-12
-      title: Lecture 23 <br> Deep Learning 1 <br> Feed Forward NN <br> Backpropagation
+      title: Lecture 23 <br> Deep Learning 1 <br> Feed Forward NN <br> <s>Backpropagation</s>
       assignments: 
         - 
           title: "HW08 - Neural Networks"
           url: "hws/HW08.html"
           deadline: 2024-11-19
+      slides: slides/lec23.pdf
     -
       date: 2024-11-13
-      title: EMNLP (NLP Conference) <br> Lab 09 <br> Sklearn or Pytorch
+      title: Lab Office Hours <br> <s>EMNLP (NLP Conference) <br> Lab 09 <br> Sklearn or Pytorch</s>
     -
       date: 2024-11-14
-      title: EMNLP (NLP Conference)
+      title: Lecture 24 <br> Backpropagation
+      slides: slides/lec24.pdf
     -
       date: 2024-11-19
-      title: Lecture 24 <br> Deep Learning 2 
+      title: Lecture 25 <br> Deep Learning 2 <br> RNN
     -
       date: 2024-11-20
-      title: Lecture 25 <br> Deep Learning 3 <br> RNN
+      title: Lecture 26 <br> Deep Learning 3 <br> Attention
     -
       date: 2024-11-21
-      title: Lecture 26 <br> Deep Learning 4 <br> Transformer
+      title: Lecture 27 <br> Deep Learning 4 <br> Transformer
     -
       date: 2024-11-26
-      title: Lecture 27 <br> Deep Learning Catchup
+      title: Lecture 28 <br> Deep Learning Catchup
     -
       date: 2024-11-27
       title: NO CLASS (day bfore thanksgiving) 
