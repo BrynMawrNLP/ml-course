@@ -275,7 +275,7 @@
         - 
           title: "HW08 - Neural Networks"
           url: "hws/HW08.html"
-          deadline: 2024-11-19
+          deadline: 2024-12-12
       slides: slides/lec23.pdf
     -
       date: 2024-11-13
@@ -287,15 +287,19 @@
     -
       date: 2024-11-19
       title: Lecture 25 <br> Deep Learning 2 <br> RNN
+      slides: slides/lec25.pdf
     -
       date: 2024-11-20
-      title: Lecture 26 <br> Deep Learning 3 <br> Attention
+      title: Lecture 26 <br> Deep Learning 3 <br> Pytorch Tutorial Notebook <br> Word Embeddings
+      slides: slides/lec26.pdf
     -
       date: 2024-11-21
-      title: Lecture 27 <br> Deep Learning 4 <br> Transformer
+      title: Lecture 27 <br> Deep Learning 4 <br> Attention <br> Transformer
+      slides: slides/lec27.pdf
     -
       date: 2024-11-26
       title: Lecture 28 <br> Deep Learning Catchup
+      slides: slides/lec28.pdf
     -
       date: 2024-11-27
       title: NO CLASS (day bfore thanksgiving) 
@@ -304,10 +308,19 @@
       title: THANKSGIVING
     -
       date: 2024-12-03
-      title: Lecture 28 <br> Unsupervised Learning I
+      title: Lecture 29 <br> Unsupervised Learning I <br> K-Means Clustering
+      slides: slides/lec29.pdf
+      readings:
+        -
+          title: "Duame Chapter 15.1"
+          url: "http://ciml.info/dl/v0_99/ciml-v0_99-ch15.pdf"
     -
       date: 2024-12-04
-      title: Lecture 29 <br> Unsupervised Learning II
+      title: Lecture 29 <br> Unsupervised Learning II <br> GMMs
+      readings:
+        -
+          title: "Duame Chapter 16"
+          url: "http://ciml.info/dl/v0_99/ciml-v0_99-ch15.pdf"
     -
       date: 2024-12-05
       title: Lecture 30 <br> Unsupervised Learning III
